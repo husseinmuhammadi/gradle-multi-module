@@ -1,0 +1,6 @@
+rootProject.name = 'gradle-multi-module'
+include 'product-api'
+include 'product-service'
+include 'person-api'
+include 'person-service'
+
